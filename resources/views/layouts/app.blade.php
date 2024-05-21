@@ -16,6 +16,14 @@
 </head>
 
 <body>
+    <header>
+        <nav class="navbar bg-body-tertiary">
+            <div class="container-fluid">
+                <a class="navbar-brand text-uppercase fw-bold">Movies</a>
+            </div>
+        </nav>
+    </header>
+
     <main>
         @yield('main-content')
     </main>
