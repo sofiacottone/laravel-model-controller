@@ -11,7 +11,7 @@
                         <div class="ms-flip-card-inner">
 
                             <div
-                                class="ms-flip-card-front d-flex justify-content-center align-items-center text-uppercase fw-bold">
+                                class="ms-flip-card-front d-flex justify-content-center align-items-center text-uppercase text-center fw-bold">
                                 <div>{{ $movie->title }}</div>
                             </div>
 
